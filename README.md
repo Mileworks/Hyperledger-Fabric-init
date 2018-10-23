@@ -11,4 +11,5 @@
   b. Portainer - docker 插件 ：查看CLI 和管理镜像 https://portainer.readthedocs.io/en/stable/  
   
 2.相关术语解释：  
+大致了解其中词汇 ： https://hyperledgercn.github.io/hyperledgerDocs/glossary/  
 3.Hyperledger网络和Fabric相关部署方法：（有需要翻墙）  
