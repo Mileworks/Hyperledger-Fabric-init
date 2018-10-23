@@ -4,6 +4,7 @@
   注：使用k8s。
   
   可以配合使用一些插件，方便整个代码查看和Docker 镜像的管理 。  
+  
   a. 代码查看-chrome插件 ：https://about.sourcegraph.com/  
   b. Portainer - docker 插件 ：查看CLI 和管理镜像
   
