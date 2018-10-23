@@ -11,9 +11,15 @@
   a. 代码查看-chrome插件 ：https://about.sourcegraph.com/  
   b. Portainer - docker 插件 ：查看CLI 和管理镜像 https://portainer.readthedocs.io/en/stable/  
   
-2.相关术语解释：  
+2.相关能用：  
+百度网盘资源：（粗略过一遍即可）  
+链接:https://pan.baidu.com/s/1fiEtMnY_hgrQF9sRnKsXtw  密码:9z6i
 
-大致了解其中词汇 ： https://hyperledgercn.github.io/hyperledgerDocs/glossary/  
+中文文档：  
+https://hyperledgercn.github.io/hyperledgerDocs/
+
+大致了解其中词汇 ：  
+https://hyperledgercn.github.io/hyperledgerDocs/glossary/  
 
 3.Hyperledger网络和Fabric相关部署方法：（有需要翻墙）  
 
