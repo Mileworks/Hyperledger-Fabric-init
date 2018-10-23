@@ -36,8 +36,15 @@ https://anders.com/blockchain/coinbase.html
 https://blockchaindemo.io/  
 ```
 
-3.Hyperledger网络和Fabric相关部署方法：（有需要翻墙）  
+3.Hyperledger网络和Fabric相关部署方法：（已经验证）  
+  
 
 4.ChainCode 典例源码：（必须要看，参考书写格式、理解大致使用业务场景）  
+
+5.本地如何调试ChainCode  
+
+6.ChainCode 用Go 和 Java语言的比较（建议使用Golang）  
+
+
 
 
