@@ -1,4 +1,5 @@
 # Hyperledger相关整理文档  
+
 随着该技术发展成熟，早期阶段学习该技术的投资将会不断得到丰厚的回报。  
 
 1.初期技术要求：  
@@ -21,7 +22,7 @@
   ```
   
 2.相关能用：  
-```
+```  
 百度网盘资源：（粗略过一遍即可 - 配合白皮书了解大概）  
 链接:https://pan.baidu.com/s/1fiEtMnY_hgrQF9sRnKsXtw  密码:9z6i
 
@@ -37,14 +38,20 @@ https://blockchaindemo.io/
 ```
 
 3.Hyperledger网络和Fabric相关部署方法：（已经验证）  
-  
+```
+  官方例子：
+  https://github.com/hyperledger/fabric  
+  https://github.com/hyperledger/fabric-samples  
+```  
+![avatar](/init/1.jpg)
+
+![avatar](/init/2.jpg)
+
+![avatar](/init/3.jpg)
+
 
 4.ChainCode 典例源码：（必须要看，参考书写格式、理解大致使用业务场景）  
 
 5.本地如何调试ChainCode  
 
 6.ChainCode 用Go 和 Java语言的比较（建议使用Golang）  
-
-
-
-
