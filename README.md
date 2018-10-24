@@ -38,7 +38,7 @@ https://anders.com/blockchain/coinbase.html
 https://blockchaindemo.io/  
 ```
 
-3.Hyperledger网络和Fabric相关部署方法：【在每个目录README中说明】  
+3.[Hyperledger网络和Fabric相关部署方法](https://github.com/Mileworks/Hyperledger-Fabric-init/tree/master/1.创建Fabric网络)
 
 4.ChainCode 典例源码：（必须要看，参考书写格式、理解大致使用业务场景）  
 
