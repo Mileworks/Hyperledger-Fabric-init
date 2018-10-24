@@ -33,6 +33,10 @@ https://hyperledgercn.github.io/hyperledgerDocs/ (重点必看！！！)
 大致了解其中词汇 ：  
 https://hyperledgercn.github.io/hyperledgerDocs/glossary/  
 
+> 有两个词汇要注意：
+- Endorsement ：Endorsement 是指一个peer执行一个交易并返回YES-NO给生成交易proposal的client app 的过程。chaincode具有相应的endorsement policies，其中指定了endorsing peer。
+- Ordering Service ：将交易排序放入block的节点的集合。ordering service独立于peer流程之外，并以先到先得的方式为网络上所有的channel作交易排序。ordering service先传递block给leading peer ，然后再由leading peer 传递给不同peer 中。
+
 Demo例子：  
 https://anders.com/blockchain/coinbase.html  
 https://blockchaindemo.io/  
@@ -41,6 +45,8 @@ https://blockchaindemo.io/
 3.[Hyperledger网络和Fabric相关部署方法](https://github.com/Mileworks/Hyperledger-Fabric-init/tree/master/1.创建Fabric网络)
 
 4.ChainCode 典例源码：（必须要看，参考书写格式、理解大致使用业务场景）  
+
+请注意：这些操作通常由组织或者peer的管理员来完成。这个脚本使用CLI容器来执行这些命令，但SDK中也有支持。
 
 5.本地如何调试ChainCode  
 
