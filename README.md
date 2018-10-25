@@ -46,6 +46,8 @@ https://blockchaindemo.io/
 
 4.ChainCode 典例源码：（必须要看，参考书写格式、理解大致使用业务场景）  
 
+https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-chaincode-development-using-golang/index.html?mhq=Hyperledger%20Fabric%20%20%E6%96%87%E4%BB%B6&mhsrc=ibmsearch_a
+
 请注意：这些操作通常由组织或者peer的管理员来完成。这个脚本使用CLI容器来执行这些命令，但SDK中也有支持。
 
 5.本地如何调试ChainCode  
