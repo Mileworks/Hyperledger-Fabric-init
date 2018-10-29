@@ -19,6 +19,10 @@
 
   b. Portainer - docker 插件 ：查看CLI 和管理镜像  
   https://portainer.readthedocs.io/en/stable/  
+
+  c. k8s集群搭建 ：  
+  https://github.com/wise2c-devops/breeze
+
   ```
   
 2.相关能用：  
