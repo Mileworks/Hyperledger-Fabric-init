@@ -21,7 +21,23 @@
   https://portainer.readthedocs.io/en/stable/  
 
   c. k8s集群搭建 ：  
-  https://github.com/wise2c-devops/breeze
+  https://github.com/wise2c-devops/breeze  
+
+  ```  
+    这里使用免登设置的时候注意大致要有5 - 6台设备，其中有一台专门用于部署breeze 控制台程序，大致设备情况如下（实际公司内部情况）：  
+    1.Deploy - 121  
+    2.k8s01 - 138 - master  
+    3.k8s02 - 80 - master  
+    4.k8s03 - 101 - minion node
+    5.Harbor - 45
+    
+    【
+    参考https://www.linuxidc.com/Linux/2017-04/142632.htm 中的免登配置，  
+    注意首先现在121 服务器上进行ssh-copy-id @ip方式将所有服务器内容全部登录信息保存下来。
+    进行从121到其他服务器的免登操作。
+    】
+
+  ```
 
   ```
   
